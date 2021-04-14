@@ -1,4 +1,5 @@
 # This is the readme file. 
-# Hello
-# Hi
+<<<<<<< HEAD
 # NEW file
+=======
+>>>>>>> master
