@@ -1,2 +1,4 @@
 "This is file one."
 "My file is here."
+"Changes in the new branch."
+
